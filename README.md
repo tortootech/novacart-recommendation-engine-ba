@@ -34,6 +34,7 @@ The dashboard also breaks revenue down by month, product category and customer s
 | `docs/NovaCart_Recommendation_Engine_Project_Report.docx` | The full BA report |
 | `dashboard/novacart.pbix` | Power BI dashboard (open in Power BI Desktop) |
 | `dashboard/novacart_dashboard.pdf` and `.png` | Dashboard snapshot |
+| `dax/measures.md` | The 5 DAX measures with explanations (`SUMX`, `DIVIDE`, `CALCULATE` with `FILTER`) and the data model |
 
 ## Notes
 - Data: [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle. The raw files are not stored here.
